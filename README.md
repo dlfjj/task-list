@@ -1,4 +1,4 @@
-# task-list
+# Task list
 Built a task-list function using vue.js and laravel 
 
 # Overview
